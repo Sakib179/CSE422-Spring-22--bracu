@@ -4,5 +4,7 @@ This repository contains the resources for the CSE422 course from Spring 2022 at
 
 Contents
 Assignments: All assignments given throughout the course, including problem statements and solutions.
+
 Labs: Lab exercises and their corresponding solutions.
+
 Project Work: Any projects or additional work completed during the course.
